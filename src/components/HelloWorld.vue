@@ -6,11 +6,11 @@
     >
 
       <v-flex xs12 sm8 offset-sm2 my-5 pa-4 style="background:rgba(0,0,0,0.6);">
-<!-- 
+<!--
         <h1 class="hidden-xs-only display-2 mt-3 mb-3">
           EARTHTONES
         </h1> -->
-        <h1 class="visible-xs-only display-1 mt-3 mb-3">
+        <h1 class="display-1 mt-3 mb-3">
           EARTHTONES
         </h1>
         <h2 class="font-weight-bold mb-4 mt-4">
