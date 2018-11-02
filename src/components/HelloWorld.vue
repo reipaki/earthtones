@@ -54,7 +54,7 @@
     font-weight: 100;
   }
   p {
-    font-family: "Martel-Light";
+    font-family: "Martel";
     font-weight: lighter;
   }
   hr {
