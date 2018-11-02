@@ -1,7 +1,7 @@
 <template>
   <v-app dark>
 
-    <v-content style="background: url(art.png); background-size: cover; background-repeat: no-repeat; background-position: center center;">
+    <v-content style="background: url(art.jpg); background-size: cover; background-repeat: no-repeat; background-position: center center;">
       <HelloWorld/>
     </v-content>
   </v-app>
