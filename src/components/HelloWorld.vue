@@ -5,7 +5,7 @@
       wrap
     >
 
-      <v-flex xs12 sm8 offset-sm2 my-5 pa-4 style="background:rgba(0,0,0,0.6);">
+      <v-flex xs12 sm8 offset-sm2 my-5 pa-4 style="background:rgba(0,0,0,0.7);">
 <!--
         <h1 class="hidden-xs-only display-2 mt-3 mb-3">
           EARTHTONES
